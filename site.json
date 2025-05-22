@@ -12,7 +12,8 @@
   },
   "newsletter": {
     "showTwitterBanner": true,
-    "currentCount": "2,000"
+    "currentCount": "2,000",
+    "revueUsername": "roadmapsh"
   },
   "seo": {
     "title": "Mahammad Asif Ali",
