@@ -1,0 +1,23 @@
+{
+  "title": "Mahammad Asif Ali",
+  "subtitle": "Lead engineer at Beau Roi Technologies — tech guy with an entrepreneurial spirit and knack for getting things done",
+  "owner": {
+    "name": "Mahammad Asif Ali",
+    "email": "mahammadaasif078p@gmail.com"
+  },
+  "social": {
+    "github": "MohammadAsif-SDE",
+    "twitter": "ezasif"
+  },
+  "seo": {
+    "title": "Mahammad Asif Ali",
+    "description": "Blog of a Software Engineer",
+    "author": "Mahammad Asif Ali",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog"
+    ]
+  },
+  "cname": "mahammadaasif.com"
+}
