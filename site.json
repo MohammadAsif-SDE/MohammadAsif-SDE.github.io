@@ -7,7 +7,13 @@
   },
   "social": {
     "github": "MohammadAsif-SDE",
+    "medium": "MohammadAsif-SDE",
     "twitter": "ezasif"
+  },
+  "newsletter": {
+    "showTwitterBanner": true,
+    "currentCount": "2,000",
+    "revueUsername": "roadmapsh"
   },
   "seo": {
     "title": "Mahammad Asif Ali",
