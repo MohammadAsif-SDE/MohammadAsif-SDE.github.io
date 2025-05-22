@@ -10,9 +10,10 @@
     "medium": "MohammadAsif-SDE",
     "twitter": "ezasif"
   },
-    "newsletter": {
+  "newsletter": {
     "showTwitterBanner": true,
     "currentCount": "2,000"
+  },
   "seo": {
     "title": "Mahammad Asif Ali",
     "description": "Blog of a Software Engineer",
