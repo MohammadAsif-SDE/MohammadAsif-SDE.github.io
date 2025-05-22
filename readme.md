@@ -1,2 +1,2 @@
-# [mahammadaasif.com](mahammadaasif.com)
-My personal blog created using [github-pages-blog-action](https://github.com/MohammadAsif-SDE/github-pages-blog-action)
+# [Mahammadaasif.com](https://portfolio.mahammadasifali.in/)
+My personal blog created using [github-pages-blog-action](https://portfolio.mahammadasifali.in/)
